@@ -1,5 +1,5 @@
 //
-//  FirstViewController.h
+//  rPlanController
 //  HomeCentral_18
 //
 //  Created by Ruedi Heimlicher on 05.10.2018.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FirstViewController : UIViewController
+@interface rPlanController : UIViewController
 
 
 @end

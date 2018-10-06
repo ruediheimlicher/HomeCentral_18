@@ -6,13 +6,13 @@
 //  Copyright © 2018 Ruedi Heimlicher. All rights reserved.
 //
 
-#import "FirstViewController.h"
+#import "rStromController.h"
 
-@interface FirstViewController ()
+@interface rStromController ()
 
 @end
 
-@implementation FirstViewController
+@implementation rStromController
 
 - (void)viewDidLoad {
    [super viewDidLoad];

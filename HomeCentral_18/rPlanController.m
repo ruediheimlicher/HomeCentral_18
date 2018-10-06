@@ -1,18 +1,18 @@
 //
-//  rHomeController
+//  rPlanController
 //  HomeCentral_18
 //
 //  Created by Ruedi Heimlicher on 05.10.2018.
 //  Copyright © 2018 Ruedi Heimlicher. All rights reserved.
 //
 
-#import "rHomeController.h"
+#import "rPlanController.h"
 
-@interface rHomeController ()
+@interface rPlanController ()
 
 @end
 
-@implementation rHomeController
+@implementation rPlanController
 
 - (void)viewDidLoad {
    [super viewDidLoad];
