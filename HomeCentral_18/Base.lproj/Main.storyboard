@@ -142,7 +142,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="ASE-WF-Ltm"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Plan" image="plan64" id="FEn-Nd-Iz1"/>
+                    <tabBarItem key="tabBarItem" title="Plan" image="plan32" id="FEn-Nd-Iz1"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="BMO-4T-aTe" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -152,7 +152,7 @@
     <resources>
         <image name="Strom" width="32" height="32"/>
         <image name="homecentral" width="30" height="30"/>
-        <image name="plan64" width="32" height="32"/>
+        <image name="plan32" width="32" height="32"/>
         <image name="solar64" width="32" height="32"/>
     </resources>
 </document>
