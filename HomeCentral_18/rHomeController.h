@@ -1,5 +1,5 @@
 //
-//  rHomeViewController.h
+//  rHomeController.h
 //  HomeCentral_18
 //
 //  Created by Ruedi Heimlicher on 05.10.2018.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface rHomeViewController : UIViewController
+@interface rHomeController : UIViewController
 
 
 @end

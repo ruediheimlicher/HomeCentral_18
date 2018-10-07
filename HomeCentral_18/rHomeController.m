@@ -1,18 +1,18 @@
 //
-//  rHomeViewController.m
+//  rHomeController.m
 //  HomeCentral_18
 //
 //  Created by Ruedi Heimlicher on 05.10.2018.
 //  Copyright © 2018 Ruedi Heimlicher. All rights reserved.
 //
 
-#import "rHomeViewController.h"
+#import "rHomeController.h"
 
-@interface rHomeViewController ()
+@interface rHomeController ()
 
 @end
 
-@implementation rHomeViewController
+@implementation rHomeController
 
 - (void)viewDidLoad {
    [super viewDidLoad];

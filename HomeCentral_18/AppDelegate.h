@@ -8,7 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@interface AppDelegate : UIResponder <UIApplicationDelegate,NSURLSessionDelegate,NSURLSessionTaskDelegate,NSURLConnectionDelegate>
+
+{
+   IBOutlet id TabBar;
+   NSData*receivedData;
+}
 
 @property (strong, nonatomic) UIWindow *window;
 
