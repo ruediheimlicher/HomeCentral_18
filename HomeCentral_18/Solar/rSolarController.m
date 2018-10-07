@@ -18,6 +18,22 @@
 {
    [super viewDidLoad];
    // Do any additional setup after loading the view, typically from a nib.
+   std=0;
+   min=1;
+   data=2;
+   art =0;
+   randlinks=10;
+   randrechts=0;
+   randunten = 10;
+   randoben = 20;
+   b = 24;
+   intervally = 10;
+   intervallx = 60;
+   teile = 12;
+   startwert =0;
+
+   [self.diagrammtaste setTitleColor:[UIColor blueColor] forState:UIControlStateNormal];
+   [self.diagrammtaste setTitleColor:[UIColor whiteColor] forState:UIControlStateSelected];
 
 }
 
