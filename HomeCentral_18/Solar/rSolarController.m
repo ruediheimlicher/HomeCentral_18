@@ -6,17 +6,19 @@
 //  Copyright © 2018 Ruedi Heimlicher. All rights reserved.
 //
 
-#import "rSolarViewController.h"
+#import "rSolarController.h"
 
-@interface rSolarViewController ()
+@interface rSolarController ()
 
 @end
 
-@implementation rSolarViewController
+@implementation rSolarController
 
-- (void)viewDidLoad {
+- (void)viewDidLoad 
+{
    [super viewDidLoad];
    // Do any additional setup after loading the view, typically from a nib.
+
 }
 
 
