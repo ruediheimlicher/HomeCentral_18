@@ -33,7 +33,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="PQr-Ze-W5v"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Strom" image="Strom" id="acW-dT-cKf"/>
+                    <tabBarItem key="tabBarItem" title="Strom" image="strom32" id="acW-dT-cKf"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="W5J-7L-Pyd" sceneMemberID="firstResponder"/>
             </objects>
@@ -70,7 +70,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="O1u-W8-tvY"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Solar" image="solar64" id="cPa-gy-q4n"/>
+                    <tabBarItem key="tabBarItem" title="Solar" image="solar32" id="cPa-gy-q4n"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4Nw-L8-lE0" sceneMemberID="firstResponder"/>
             </objects>
@@ -116,7 +116,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="GX8-Mm-znK"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="HomeCentral" image="homecentral" id="172-A2-Bl0"/>
+                    <tabBarItem key="tabBarItem" title="HomeCentral" image="home32" id="172-A2-Bl0"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="DDn-XS-s6W" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -150,9 +150,9 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Strom" width="32" height="32"/>
-        <image name="homecentral" width="30" height="30"/>
+        <image name="home32" width="32" height="32"/>
         <image name="plan32" width="32" height="32"/>
-        <image name="solar64" width="32" height="32"/>
+        <image name="solar32" width="32" height="32"/>
+        <image name="strom32" width="32" height="32"/>
     </resources>
 </document>
