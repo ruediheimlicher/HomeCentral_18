@@ -18,6 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions 
 {
    NSLog(@"didFinishLaunchingWithOptions start");
+   /*
    // Override point for customization after application launch.
    NSString* DataSuffix=@"ip.txt";
    //NSLog(@"StromDataVonHeute  DownloadPfad: %@ DataSuffix: %@",ServerPfad,DataSuffix);
@@ -41,6 +42,7 @@
    
    [dataTask resume];
    NSLog(@"didFinishLaunchingWithOptions end");
+    */
    return YES;
 }
 
